@@ -29,7 +29,7 @@ A simple solution to update your Dynu Dynamic DNS using Podman. This repository 
 2. Create a `.env` file: Create a file named `.env` in the root of the repository and add your Dynu credentials:
 
    ```bash
-   touch .env
+   cp .env.sample .env
    ```
    Add the following content to the `.env` file:
    ```env
