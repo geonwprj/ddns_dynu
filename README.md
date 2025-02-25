@@ -6,10 +6,6 @@ A simple solution to update your Dynu Dynamic DNS using Podman. This repository 
 
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Sample .env File](#sample-env-file)
-- [GitHub Actions](#github-actions)
-- [License](#license)
 
 ## Features
 
